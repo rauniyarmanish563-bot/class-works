@@ -1,0 +1,2 @@
+# class-works
+class works
